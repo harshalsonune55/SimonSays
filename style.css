@@ -1,0 +1,70 @@
+body{
+  text-align: center;
+}
+.red{
+  background-color: rgb(231, 78, 78);
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  border: 5px solid black;
+  border-radius: 30px;
+  left: 560px;
+  top: 137px;
+}
+.green{
+  background-color: rgb(99, 226, 82);
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  border: 5px solid black;
+  border-radius: 30px;
+  left: 788px;
+    top: 134px;
+
+
+}
+
+.redbg{
+  background-color: rgb(240, 68, 68);
+}
+.orange{
+  background-color: rgb(224, 166, 31);
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  border: 5px solid black;
+  border-radius: 30px;
+  top: 364px;
+    left: 561px;
+}
+.blue{
+  background-color: rgb(54, 91, 212);
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  border: 5px solid black;
+  border-radius: 30px;
+  top: 363px;
+    left: 791px;
+}
+/* h2{
+  /* position: relative;
+    left: 690px; */
+/* } */ 
+/* h3{ */
+  /* position: relative;
+    left: 747px;
+} */
+.war{
+  background-color: yellow;
+}
+/* .text{
+  position: relative;
+    left: 646px;
+} */
+.flash{
+background-color: white;
+ }
+ .userflash{
+  background-color: rgb(0, 209, 0);
+}
